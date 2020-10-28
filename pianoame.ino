@@ -1,5 +1,5 @@
 // Código Piano
-
+/*
     Notas Musicales / Frecuencias
   
         DO=523.25
@@ -9,6 +9,7 @@
         SOL=783.99
         LA=880
         SI=987.77
+ */
 
 void setup() {
 
